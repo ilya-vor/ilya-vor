@@ -1,16 +1,20 @@
-## Hi there 👋
+# Илья Воробьёв
 
-<!--
-**ilya-vor/ilya-vor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Middle-инженер .NET + LLM/RAG. Три года коммерческого опыта.
 
-Here are some ideas to get you started:
+## Что делал
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- RAG по 60+ книгам: индексация ×5, ошибок LLM −40%
+- OCR медбланков на PP-OCRv5: ×2 к Tesseract
+- Генерация интерпретаций: 3,5 → 0,16 ₽ за запрос
+- YOLOv11n на 12 300 изображений: mAP50 0.825
+
+## Стек
+
+C#, ASP.NET Core, Python, PyTorch, PostgreSQL, Qdrant, Docker, Linux
+
+## Контакты
+
+- Telegram: [@VorobevIlya](https://t.me/VorobevIlya)
+- Email: nynate@mail.ru
+- Резюме: [career.habr.com/ilya-vor](https://career.habr.com/ilya-vor)
