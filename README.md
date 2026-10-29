@@ -18,3 +18,4 @@ C#, ASP.NET Core, Python, PyTorch, PostgreSQL, Qdrant, Docker, Linux
 - Telegram: [@VorobevIlya](https://t.me/VorobevIlya)
 - Email: nynate@mail.ru
 - Резюме: [career.habr.com/ilya-vor](https://career.habr.com/ilya-vor)
+- Статьи: [habr.com/ru/users/ilya-vor](https://habr.com/ru/users/ilya-vor/articles/)
